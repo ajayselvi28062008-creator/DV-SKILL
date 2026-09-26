@@ -255,6 +255,3 @@ Through this project, the Superstore dataset is explored and analyzed using Pyth
 ---
 
 
-
-⭐ If you found this project useful, consider giving the repository a star!
-
